@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/akbarahmadjonov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="akbarahmadjonov" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/akbar-ahmadjonov-18371024a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/akbar-ahmadjonov-18371024a" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/akbar-ahmadjonov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/akbar-ahmadjonov-18371024a" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100087227937458" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100087227937458" height="30" width="40" /></a>
 <a href="https://instagram.com/akbarahmadjonov_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akbarahmadjonov_" height="30" width="40" /></a>
 </p>
