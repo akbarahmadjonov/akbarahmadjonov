@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akbarahmadjonov&label=Profile%20views&color=0e75b6&style=flat" alt="akbarahmadjonov" /> </p>
 
-- 🌱 I’m currently learning **JavaScript, ReactJs, Sass**
+- Currently learning **JavaScript, ReactJs, Sass**
 
-- 💬 Ask me about **JavaScript,Sass,HTML,Tailwind,Bootstrap**
+- Ask me about **JavaScript,Sass,HTML,Tailwind,Bootstrap**
 
-- 📫 How to reach me **akhmadjonovakbardeveloper@gmail.com**
+- Reach me **akhmadjonovakbardeveloper@gmail.com**
 
-- ⚡ Fun fact **Regular learner**
+- ⚡ Fun fact **Learner**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
