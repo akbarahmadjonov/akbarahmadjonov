@@ -9,8 +9,7 @@
 
 - Reach me **akhmadjonovakbardeveloper@gmail.com**
 
-Telegram: @akbarahmadjonovv
-
+- Telegram: <a href='https://telegram.me/akbarahmadjonovv'>Telegram</a>
 - ⚡ Fun fact **Learner**
 
 <h3 align="left">Connect with me:</h3>
