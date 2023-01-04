@@ -19,8 +19,7 @@ Tools I use
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akbarahmadjonov&show_icons=true&locale=en&layout=compact" alt="akbarahmadjonov" /></p>
 
-
-<p>&nbsp;
+<p style='margin-top: 20px';>&nbsp;
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=akbarahmadjonov&show_icons=true&locale=en" alt="akbarahmadjonov" />
 </p>
 
