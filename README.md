@@ -1,8 +1,8 @@
 <h1 align="center">Hi there👋</h1>
 <!-- <img align='right' width='400' height='400' alt='Coding' src='https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif'>-->
-- Reach to me: <a href='mailto:akhmadjonovakbardeveloper@gmail.com'>akhmadjonovakbardeveloper@gmail.com</a>
+🔗 <a href='mailto:akhmadjonovakbardeveloper@gmail.com'>akhmadjonovakbardeveloper@gmail.com</a>
 
-- Telegram: <a href='https://telegram.me/akbarahmadjonov'>Telegram</a>
+🔗 <a href='https://telegram.me/akbarahmadjonov'>t.me/akbarahmadjonovv</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
