@@ -2,7 +2,7 @@
 <!-- <img align='right' width='400' height='400' alt='Coding' src='https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif'>-->
 🔗 <a href='mailto:akhmadjonovakbardeveloper@gmail.com'>akhmadjonovakbardeveloper@gmail.com</a>
 
-🔗 <a href='https://telegram.me/akbarahmadjonov'>t.me/akbarahmadjonovv</a>
+<!-- 🔗 <a href='https://telegram.me/akbarahmadjonov'>t.me/akbarahmadjonovv</a>-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
