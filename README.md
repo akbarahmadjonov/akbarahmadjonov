@@ -1,4 +1,4 @@
-<h1 align="center">Hey you <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="41px"></h1>
+<h1 align="center">Hey you, welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="41px"></h1>
 <!-- <img align='right' width='400' height='400' alt='Coding' src='https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif'>-->
 🔗 <a href='mailto:akhmadjonovakbardeveloper@gmail.com'>akhmadjonovakbardeveloper@gmail.com</a>
 
