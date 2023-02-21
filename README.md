@@ -20,8 +20,8 @@ Tools I use
   <h4>You can observe what I have done with this technologies in my portfolio.</h4>
 
 
-
-<div style='display: block;'>
+<!--
+<div>
   <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akbarahmadjonov&show_icons=true&locale=en&layout=compact" alt="akbarahmadjonov" /></p>
 </div>
@@ -37,3 +37,4 @@ Tools I use
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akbarahmadjonov&" alt="akbarahmadjonov" />
 </p>
 </div>
+-->
