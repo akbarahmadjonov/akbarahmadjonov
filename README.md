@@ -1,8 +1,24 @@
 <h1 align="center">Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="41px"></h1>
-<!-- <img align='right' width='400' height='400' alt='Coding' src='https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif'>-->
-🔗 <a href='mailto:akhmadjonovakbardeveloper@gmail.com'>akhmadjonovakbardeveloper@gmail.com</a>
 
-<!-- 🔗 <a href='https://telegram.me/akbarahmadjonov'>t.me/akbarahmadjonovv</a>-->
+<h3>My Stack:</h3>
+
+<ul>
+  <li>JavaScript/React</li>
+  <li>HTML</li>
+  <li>CSS | SASS | CSS modules</li>
+  <li>Adaptive/Responsive Design</li>
+  <li>Figma/GIT</li>
+  <li>Vite | Webpack</li>
+</ul>
+
+<!-- <img align='right' width='400' height='400' alt='Coding' src='https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif'>-->
+<h3>Contacts:</h3>
+
+<div>
+🔗 <a href='mailto:akbarahmadjonovv@mail.ru'>akbarahmadjonovv@mail.ru</a>
+🔗 <a href='https://telegram.me/akbarahmadjonov'>Telegram</a>
+🔗 <a href='https://linkedin.com/in/akbar-ahmadjonov/'>LinkedIn</a>
+</div>
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
