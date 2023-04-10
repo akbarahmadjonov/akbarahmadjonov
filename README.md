@@ -10,6 +10,7 @@
   <li>Figma/GIT</li>
   <li>Vite | Webpack</li>
 </ul>
+and etc..
 
 <!-- <img align='right' width='400' height='400' alt='Coding' src='https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif'>-->
 <h3>Contacts:</h3>
